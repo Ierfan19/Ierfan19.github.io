@@ -4000,7 +4000,7 @@ textarea.form-control-lg {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #1abc9c;
+	background: linear-gradient(to top left, #11e9d7 15%, #4787ee 80%);
 }
 
 .nav-fill > .nav-link,
@@ -11397,11 +11397,11 @@ html {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #1abc9c;
+    background: linear-gradient(to top left, #11e9d7 15%, #4787ee 80%);
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #1abc9c;
+    background: linear-gradient(to top left, #11e9d7 15%, #4787ee 80%);
   }
 
   #mainNav.navbar-shrink {
@@ -11506,4 +11506,7 @@ html {
 
 .copyright {
   background-color: #1a252f;
+}
+.headerme {
+	background: linear-gradient(to top left, #11e9d7 15%, #4787ee 80%);
 }
